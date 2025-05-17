@@ -15,11 +15,11 @@ Cílem projektu je získat analýzu stěstí obyvatel dle regionů v závislosti
 # *** ZDROJOVÉ DATABÁZE ***
 
 ## A. WorldHappinessReport
-### ## a/ data štěstí
+### a/ data štěstí
     - Data+for+Figure+2.1+(2011-2024).xlsx    (https://worldhappiness.report)
 
 ## B. WORLDBANKGROUP
-### ## b/ data vzdělanosti
+### b/ data vzdělanosti
     - WorldBankDataEducation.xlsx  (https://www.worldbank.org/ext/en/home)
 
 ##  C. Časová dostupnost dat
