@@ -9,7 +9,7 @@ email: pavel.mrkva@seznam.cz
 
 # *** POPIS PROJEKTU ***
 
-Cílem projektu je získat analýzu stěstí obyvatel dle regionů v závislosti na dostupných datech.
+Cílem projektu je analýza stěstí a vzdělanosti obyvatel dle regionů v závislosti na dostupných datech.
 
 
 # *** ZDROJOVÉ DATABÁZE ***
@@ -22,14 +22,16 @@ Cílem projektu je získat analýzu stěstí obyvatel dle regionů v závislosti
 ### b/ data vzdělanosti
     - WorldBankDataEducation.xlsx  (https://www.worldbank.org/ext/en/home)
 
-##  C. Časová dostupnost dat
-- pořadí zemí:	    2011 - 2024
+##  C. Dostupnost dat
+### časová dostupnost
+- pořadí zemí:	    2011 - 2024 (mimo rok 2013)
 - faktory štěstí:	2019 - 2024
 - vzdělanost:		2011 - 2023
 
+### obecná dostupnost
 Poznámka:
-Data pro některé země nejsou kompletní.
-
+- data pro některé země nejsou kompletní
+- data pro některé roky nejsou kompletní
 
 
 # *** SHRNUTÍ V CELOSVĚTOVÉM MĚŘÍTKU ***
@@ -49,9 +51,8 @@ Data pro některé země nejsou kompletní.
 - nejslabší faktor (při zachování faktoru Dystopie):    korupce
 
 # Vliv vzdělanosti
-Vzdělanost je nepřímo úměrná umístění v pořadí zemí.
-Rozdílný vzájemný poměr jednotlivých druhů vzdělanosti v jednotlivých zemích nemá zásadní vliv na míru štěstí obyvatel.
-
+Rozdílný vzájemný poměr jednotlivých druhů vzdělanosti v jednotlivých zemích nemá zásadní vliv na míru štěstí obyvatel. 
+Umístění v pořadí zemí je nepřímo úměrné úrovni vzdělanosti země.
 
 
 # *** VÝSLEDKY PRO ČESKOU REPUBLIKU ***
@@ -60,4 +61,9 @@ Rozdílný vzájemný poměr jednotlivých druhů vzdělanosti v jednotlivých z
 - za celé sledované období: 24 
 - posledních 5 let:         18,4 
 
-Česká republika patří mezi země vykazující vysokou spokojenost obyvatelstva s nadprůměrnou úrovní a strukturou vzdělanosti.
+Česká republika  patří mezi země vykazující:
+- vysokou míru pocitu štěstí obyvatelstva;
+- nadprůměrnou úroveň a strukturu vzdělanosti (11 pozice v pořadí zemí).
+
+
+V celosvětovém měřítku se výsledky v průběhu sledovaných let významným způsobem nemění.
